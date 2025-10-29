@@ -16,3 +16,11 @@ This project demonstrates a 100% working Infrastructure as Code deployment of an
 
 ## 📞 Support
 For issues, check the troubleshooting guide.
+
+## Screenshots
+| Description | Screenshot |
+|--------------|-------------|
+| AWS CloudFormation | ![cloudformation](cloudformation-stack-complete.png) |
+| Outputs | ![outputs-tab](outputs-tab.png) |
+| Final Website Result | ![Website Result](working-website.png) |
+
